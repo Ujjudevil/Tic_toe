@@ -1,2 +1,2 @@
-# Tic_toe
+# Zero Cross Game
 Game
